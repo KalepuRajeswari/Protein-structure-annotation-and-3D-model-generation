@@ -1,0 +1,16 @@
+Filename,Average pLDDT,pTM,Max PAE
+KAF7266200.1_scores_rank_001_alphafold2_ptm_model_3_seed_000.json,87.59123287671238,0.86,31.15625
+KAF7266200.1_scores_rank_002_alphafold2_ptm_model_2_seed_000.json,87.44865296803641,0.86,31.046875
+KAF7266200.1_scores_rank_003_alphafold2_ptm_model_1_seed_000.json,87.14906392694067,0.85,31.125
+KAF7266200.1_scores_rank_004_alphafold2_ptm_model_4_seed_000.json,84.38602739726028,0.84,31.1875
+KAF7266200.1_scores_rank_005_alphafold2_ptm_model_5_seed_000.json,83.94837899543373,0.84,31.1875
+KAF7266201.1_scores_rank_001_alphafold2_ptm_model_3_seed_000.json,90.10473193473193,0.88,30.8125
+KAF7266201.1_scores_rank_002_alphafold2_ptm_model_1_seed_000.json,88.81079254079256,0.86,30.90625
+KAF7266201.1_scores_rank_003_alphafold2_ptm_model_2_seed_000.json,88.48937062937073,0.87,30.859375
+KAF7266201.1_scores_rank_004_alphafold2_ptm_model_5_seed_000.json,88.08013986013982,0.88,30.84375
+KAF7266201.1_scores_rank_005_alphafold2_ptm_model_4_seed_000.json,86.52258741258746,0.86,30.84375
+KAF7285665.1_scores_rank_001_alphafold2_ptm_model_3_seed_000.json,89.92628712871284,0.88,30.234375
+KAF7285665.1_scores_rank_002_alphafold2_ptm_model_2_seed_000.json,88.34460396039604,0.88,30.125
+KAF7285665.1_scores_rank_003_alphafold2_ptm_model_1_seed_000.json,87.72502475247522,0.86,30.640625
+KAF7285665.1_scores_rank_004_alphafold2_ptm_model_5_seed_000.json,87.30888613861389,0.86,30.375
+KAF7285665.1_scores_rank_005_alphafold2_ptm_model_4_seed_000.json,86.51725247524755,0.85,30.734375
