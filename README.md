@@ -12,10 +12,12 @@ This repository contains scripts developed for the protein sequencen and its str
   To install the `biopython` module in Linux, run the following command in the terminal:
   ```bash
   python3 -m pip install biopython
-
+  ```
   To install the `biopython` module in windows, use following command in cmd:
   ```bash
   py -3 -m pip install biopython
+  ```
+  
 ## Module 2: Sequence Preprocessing
 1. combine_fasta_files.py
 
