@@ -32,7 +32,7 @@ This repository contains scripts developed for the protein sequencen and its str
     This script removes partial or incomplete sequences from a multi-FASTA file.
 
 ## Module 4: Protein Structure Prediction and Analysis
-1. multi_single_fasta.py
+1. multi_to_single_fasta.py
 
     This script separates a multi-FASTA file into individual protein FASTA files for ColabFold, as ColabFold requires individual protein sequences to generate structures.
 
@@ -58,5 +58,5 @@ This will run the specified script and perform its designated task.
 
 if you are using any of the scripts, or workflow, please cite
 
-Rajeswari K, Maizom H, Azzmer A.A.H, Norfarhan M. A., Nor Azlan N.M. (), Computational method for identification of proteins and 3D structures in a large dataset
+Rajeswari K, Maizom H, Azzmer A.A.H, Norfarhan M. A., Nor Azlan N.M. (), A Computational Pipeline for Functional Annotation and Structural Characterization of Insect Gustatory Proteins. 
 
