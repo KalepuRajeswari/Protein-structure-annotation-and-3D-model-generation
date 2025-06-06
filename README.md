@@ -58,5 +58,5 @@ This will run the specified script and perform its designated task.
 
 if you are using any of the scripts, or workflow, please cite
 
-Rajeswari K, Maizom H, Azzmer A.A.H, Norfarhan M. A., Nor Azlan N.M. (), A Computational Pipeline for Functional Annotation and Structural Characterization of Insect Gustatory Proteins. 
+Rajeswari K, Azzmer A.A.H, Maizom H, Norfarhan M. A., Nor Azlan N.M. (2025), A Computational Pipeline for Functional Annotation and Structural Characterization of Insect Gustatory Proteins. 
 
